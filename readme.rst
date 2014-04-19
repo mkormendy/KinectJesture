@@ -1,7 +1,10 @@
 Kinect Jesture for Mac
 ======================
 
-Control the mouse cursor and fire the key events (right or left).
+This is a fork of the original KinectJesture by Takashi Nishibayashi https://github.com/hagino3000/KinectJesture, used to ontrol the mouse cursor and fire the key events (right or left).
+
+This is an attempt to provide a more robust and up-to-date version of code for this project in xcode 5 for Apple OS X.
+Also this will attempt to provide a bit of documentation for compiling and building the software, but there are no guarantees.
 
 Demo
 ----
@@ -38,6 +41,10 @@ Open Project by xcode
 
 Credits
 -------
+Takashi Nishibayashi
+@hagino3000
+takashi.nishibayashi@gmail.com
+
 Sound files from www.freesound.org
 
 TAPE32.WAV
@@ -48,7 +55,4 @@ http://www.freesound.org/samplesViewSingle.php?id=16582
   
 Contact
 -------
-Twitter `@hagino3000`__
-mail takashi.nishibayashi@gmail.com
-
-__ http://twitter.com/hagino3000
+Twitter `mkormendy`
