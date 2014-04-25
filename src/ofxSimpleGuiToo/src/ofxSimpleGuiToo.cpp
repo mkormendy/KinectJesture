@@ -36,6 +36,7 @@
 
 #include "ofxSimpleGuiToo.h"
 
+#define ofEvents ofEvents()
 ofxSimpleGuiToo gui;
 
 

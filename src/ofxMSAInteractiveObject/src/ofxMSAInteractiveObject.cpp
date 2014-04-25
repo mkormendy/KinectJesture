@@ -33,6 +33,8 @@
 #include "ofxMSAInteractiveObject.h"
 #include "ofMain.h"
 
+#define ofEvents ofEvents()
+
 ofxMSAInteractiveObject::ofxMSAInteractiveObject() {
 	_mouseOver	= false;
 	_mouseDown	= false;
