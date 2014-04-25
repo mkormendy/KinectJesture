@@ -8,7 +8,7 @@ zmq::socket_t socket (context, ZMQ_PUB);
 */
 //--------------------------------------------------------------
 void HandJesture::setup() {
-	ofSetLogLevel(0);
+	ofSetLogLevel(OF_LOG_VERBOSE);
 	ofLog(OF_LOG_VERBOSE, "Start setup()");
 	
 	debug = true;
