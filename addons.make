@@ -1,0 +1,5 @@
+ofxKinect
+ofxOpenCv
+ofxXmlSettings
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
