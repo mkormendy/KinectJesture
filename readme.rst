@@ -21,18 +21,13 @@ Get a Kinect
 1. Buy it!!
 2. Connect your mac with USB connector.
 
-Get OpenFrameworks
-
-I tested pre release v0.062 FAT version.
+Get OpenFrameworks 0.8.1 stable.
 Download from here http://www.openframeworks.cc/download
-
-You need ofxOpenCv addon. 
-ofxOpenCv addon is Included FAT version.
 
 Deploy this source
 
-1. cd $ofxRoot/apps/examples
-2. git clone git://github.com/hagino3000/KinectJesture.git 
+1. cd $ofxRoot/apps/myApps
+2. git clone git://github.com/mkormendy/KinectJesture.git
 
 Open Project by xcode
 
@@ -46,13 +41,11 @@ Takashi Nishibayashi
 takashi.nishibayashi@gmail.com
 
 Sound files from www.freesound.org
-
 TAPE32.WAV
 http://www.freesound.org/samplesViewSingle.php?id=2674
-
 kettleswitch1.aif
 http://www.freesound.org/samplesViewSingle.php?id=16582
-  
+
 Contact
 -------
-Twitter `mkormendy`
+Twitter `@mkormendy`

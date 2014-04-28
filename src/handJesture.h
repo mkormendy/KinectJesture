@@ -14,12 +14,6 @@
 #include <string.h>
 #include <vector>
 
-class myKinect : public ofxKinect {
-public:
-	virtual ofPixels_<unsigned char> & getPixelsRef() {
-    }
-};
-
 
 class HandJesture : public ofBaseApp
 {
@@ -48,7 +42,7 @@ public:
 	void checkDepthUpdated();
 	
 	// Kinect
-	myKinect kinect;
+	ofxKinect kinect;
 	int angle;
 	
 	ofxCvColorImage		colorImage;
